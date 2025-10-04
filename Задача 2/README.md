@@ -38,7 +38,7 @@ $$
 ---
 ## Геометрическая вероятность 
 
-![](https://github.com/Saw1y/TheoryOfProbability/blob/main/Geometric%20Probability/100_000.png)
+![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%202/tv.png)
 
 $$
 P(A) = 0.4034
