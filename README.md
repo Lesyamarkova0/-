@@ -3,7 +3,7 @@
 ---
 
 ## Тема 1. Моделирование геометрической вероятности: Теннисная подача Алексея
-* [Условие](https://github.com/Saw1y/TheoryOfProbability/blob/main/Geometric%20Probability/README.md)
+* [Условие](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%201/README.md)
 * [Реализация](https://github.com/Saw1y/TheoryOfProbability/blob/main/Geometric%20Probability/geometricProbability.py)
 
 ## Тема 2. Моделирование связи частотного и классического определения вероятности (Не сделано)
