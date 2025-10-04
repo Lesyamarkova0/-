@@ -47,18 +47,10 @@ $$
 ---
 ## Геометрическая вероятность 
 
-Пусть падает 1_000 капель
+Пусть падает 1000 капель
 
 ![](https://github.com/Lesyamarkova0/-/blob/main/Задача%201/teorver.png)
 
 $$
-P(A) = 0.1245
-$$
-
-Теперь пускай он сделает 300_000 подач
-
-![](https://github.com/Saw1y/TheoryOfProbability/blob/main/Geometric%20Probability/300_000.png)
-
-$$
-P(A) = 0.1249
+P(A) = 0.514
 $$
