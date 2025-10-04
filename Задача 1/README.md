@@ -49,7 +49,7 @@ $$
 
 Пусть падает 1_000 капель
 
-![](https://github.com/Saw1y/TheoryOfProbability/blob/main/Geometric%20Probability/100_000.png)
+![](https://github.com/Lesyamarkova0/-/blob/main/Задача%201/teorver.png)
 
 $$
 P(A) = 0.1245
