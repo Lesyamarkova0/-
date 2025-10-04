@@ -36,7 +36,7 @@ P(A) = 0.125
 $$
 
 ---
-## Геометрическая вероятность 
+## Связь частотного и классического определения вероятности 
 
 ![](https://github.com/Lesyamarkova0/Theory_of_probability/blob/main/Задача%202/tv.png)
 
